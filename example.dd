@@ -1,0 +1,5 @@
+REM 
+GUI r
+STRING cmd.exe
+ENTER
+STRING THis is a perfect example of keystroke injection
